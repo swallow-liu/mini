@@ -1,0 +1,6 @@
+<!--pages/info/info.wxml-->
+<text>pages/info/info.wxml</text>
+<view>
+<view>新闻标题</view>
+<view>新闻概括</view>
+</view>
